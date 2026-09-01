@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/716-signage/main/sign1.png",
+      "duration": 17
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/716-signage/main/sign2.png",
+      "duration": 17
+    }
+  ]
+}
